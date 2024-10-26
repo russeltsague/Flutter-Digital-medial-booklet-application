@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227962252804",
+    "project_id": "medrec-7414a",
+    "storage_bucket": "medrec-7414a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227962252804:android:b737fb69d9ccb6474a0f51",
+        "android_client_info": {
+          "package_name": "com.example.medrec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALzBl97SgwX8gQbMEJfOLlxmeCuyZglyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
